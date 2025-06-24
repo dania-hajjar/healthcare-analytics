@@ -6,6 +6,7 @@ folium
 streamlit-folium
 plotly
 statsmodels
+statsmodels==0.14.0
 
 
 
